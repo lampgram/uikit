@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://exchange.bears.finance",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
+        href: "https://exchange.bears.finance/#/pool",
       },
     ],
   },
@@ -89,28 +89,28 @@ export const links = [
       },
     ],
   },
-  {
-    label: "More",
-    icon: "MoreIcon",
-    items: [
-      // {
-      //   label: "Voting",
-      //   href: "https://voting.pancakeswap.finance",
-      // },
-      {
-        label: "Github",
-        href: "https://github.com/goosedefi/",
-      },
-      {
-        label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
-      },
-      {
-        label: "Blog",
-        href: "https://goosefinance.medium.com/",
-      },
-    ],
-  },
+  // {
+  //   label: "More",
+  //   icon: "MoreIcon",
+  //   items: [
+  //     // {
+  //     //   label: "Voting",
+  //     //   href: "https://voting.pancakeswap.finance",
+  //     // },
+  //     // {
+  //     //   label: "Github",
+  //     //   href: "https://github.com/goosedefi/",
+  //     // },
+  //     // {
+  //     //   label: "Docs",
+  //     //   href: "https://goosedefi.gitbook.io/goose-finance/",
+  //     // },
+  //     // {
+  //     //   label: "Blog",
+  //     //   href: "https://goosefinance.medium.com/",
+  //     // },
+  //   ],
+  // },
 ];
 
 export const socials = [
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/bearsfinance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -162,10 +162,10 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/goosefinanceann",
-      },
+      // {
+      //   label: "Announcements",
+      //   href: "https://t.me/goosefinanceann",
+      // },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/BearsFinance",
   },
 ];
 
