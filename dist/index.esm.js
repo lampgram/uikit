@@ -2067,7 +2067,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/bearsfinance",
+                href: "https://t.me/bearstalk",
             },
         ],
     },
