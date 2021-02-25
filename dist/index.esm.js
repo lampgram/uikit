@@ -2074,7 +2074,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/BearsFinance",
+        href: "https://twitter.com/Financebears",
     },
 ];
 var MENU_HEIGHT = 64;
